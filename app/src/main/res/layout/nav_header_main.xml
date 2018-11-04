@@ -31,6 +31,6 @@
         android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
 
     <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
-        android:text="Enter your details" android:id="@+id/textView" />
+        android:text="Register your blood details" android:id="@+id/textView" />
 
 </LinearLayout>
